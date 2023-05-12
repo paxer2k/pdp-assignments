@@ -1,1 +1,1 @@
-# pdp-assignments
+This is mandatory homework for the PDP (Parallel Distributed Processing) course
